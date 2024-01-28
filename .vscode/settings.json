@@ -1,5 +1,22 @@
 {
     "cSpell.words": [
-        "iloc"
+        "arange",
+        "astype",
+        "correlacionados",
+        "desescalado",
+        "endog",
+        "exog",
+        "hiperplano",
+        "Homocedasticidad",
+        "hstack",
+        "iloc",
+        "multicolinealidad",
+        "multivariable",
+        "predictoras",
+        "pvalues",
+        "rsquared",
+        "statsmodels",
+        "xlabel",
+        "ylabel"
     ]
 }
